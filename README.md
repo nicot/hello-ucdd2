@@ -12,7 +12,7 @@ If you are successful, you should have a site that looks like this:
 
 ![screenshot of the site](site.png)
 
-[https://hello-ucdd2.firebaseapp.com/](https://hello-ucdd2.firebaseapp.com/)
+[https://glowing-heat-5994.firebaseapp.com/](https://glowing-heat-5994.firebaseapp.com/)
 
 ## Due
 before the first class
@@ -26,18 +26,18 @@ Add an x for each milestone completed
 ### Making a Copy
 
 * [x] Read this document
-* [ ] Fork this repository
-* [ ] Signup for a Firebase account
-* [ ] Create a new Firebase of your own
-* [ ] Host a copy of this site using your own Firebase
+* [x] Fork this repository
+* [x] Signup for a Firebase account
+* [x] Create a new Firebase of your own
+* [x] Host a copy of this site using your own Firebase
 
 ### Personalizing
 
 In `public/index.html`
 
-* [ ] Change the name to show your own name
-* [ ] Change the Firebase link to your own firebase
-* [ ] Add data about your favorite foods to your own firebase at the location `bio/favorite_foods`
+* [x] Change the name to show your own name
+* [x] Change the Firebase link to your own firebase
+* [x] Add data about your favorite foods to your own firebase at the location `bio/favorite_foods`
 
 ## Hints
 
